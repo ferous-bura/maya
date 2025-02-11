@@ -1,0 +1,2 @@
+# maya
+static sites
